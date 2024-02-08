@@ -2,7 +2,7 @@
 <h3 align="center">A passionate application developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYzMzY3N2RkMTJhOGJhYTk4OTI3NmJhZTg4ZTBiNTY1ZjcyNWQ2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently work as **Full Stack Web Developer.**
+- 🔭 I’m currently Looking for  **Full Stack Web Developer** opportunity.
 
 - 🌱 I’m currently learning **Node.js React.js**
 
