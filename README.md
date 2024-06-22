@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chirag Singhal</h1>
-<h3 align="center">A passionate application developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYzMzY3N2RkMTJhOGJhYTk4OTI3NmJhZTg4ZTBiNTY1ZjcyNWQ2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<h3 align="center">A passionate Software Developer from India</h3>
+
+
+
+## 👨🏻‍💻 About Me:
+<img align="right" alt="coding" width="300"  height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWYzMzY3N2RkMTJhOGJhYTk4OTI3NmJhZTg4ZTBiNTY1ZjcyNWQ2MyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently Looking for  **Full Stack Web Developer** opportunity.
 
@@ -11,15 +15,11 @@
 - ⚡ Fun fact **Google's founders were willing to sell to Excite for under $1 million in 1999—but Excite turned them down.**
 
 
-
-
-
-
-
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## 💻 Technologies and Tools I use:
 <p align="left"> <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -39,9 +39,12 @@
 
 </td><td valign="top" width="33%"> </p>
 
-<h1>Connect with me on <a href="https://linkedin.com/in/https://www.linkedin.com/in/chiragsinghal2001/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
-</a></h1>
+## ❤️ Let's get connected:
+<p align="left">
+<a href="https://twitter.com/chirag_singhal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chirag_singhal2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chiragsinghal2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chiragsinghal2001/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chirag_singhal_2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chirag_singhal_2001/" height="30" width="40" /></a>
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chiragsinghal2001&" alt="chiragsinghal2001" /></p>
