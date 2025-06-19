@@ -48,7 +48,6 @@
 
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=chiragsinghal2001&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
+
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=chiragsinghal2001&theme=react)
 
