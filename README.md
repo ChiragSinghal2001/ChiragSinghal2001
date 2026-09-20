@@ -51,3 +51,11 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com/?user=chiragsinghal2001&theme=react)
 
+
+## 🏆 Holopin Badges:
+
+<div align="center">
+  <a href="https://holopin.io/@chiragsinghal2001" target="_blank">
+    <img src="https://holopin.me/chiragsinghal2001" alt="@chiragsinghal2001's Holopin badges" width="100%" />
+  </a>
+</div>
